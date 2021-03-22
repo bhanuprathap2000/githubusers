@@ -1,6 +1,5 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import About from '../pages/About'
 import { Link } from 'react-router-dom'
  function Navbar ({title,icon}) {
         return (
